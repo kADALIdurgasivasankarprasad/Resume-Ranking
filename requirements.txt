@@ -7,3 +7,5 @@ sentence_transformers==3.4.1
 streamlit==1.42.0
 torch==2.6.0
 wordcloud==1.9.4
+pymupdf
+
